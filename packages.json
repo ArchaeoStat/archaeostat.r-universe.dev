@@ -1,0 +1,15 @@
+[
+    {
+        "package": "ArchaeoPhases",
+        "url": "https://github.com/ArchaeoStat/ArchaeoPhases"
+    },
+    {
+        "package": "ArchaeoChron",
+        "url": "https://github.com/ArchaeoStat/ArchaeoChron"
+    },
+    {
+        "package": "ArchaeoPhases.dataset",
+        "url": "https://github.com/ArchaeoStat/ArchaeoPhases.dataset"
+    }
+]
+
