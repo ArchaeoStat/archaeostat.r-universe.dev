@@ -8,6 +8,10 @@
         "url": "https://github.com/ArchaeoStat/ArchaeoChron"
     },
     {
+        "package": "ArchaeoData",
+        "url": "https://github.com/ArchaeoStat/ArchaeoData"
+    },
+    {
         "package": "ArchaeoPhases.dataset",
         "url": "https://github.com/ArchaeoStat/ArchaeoPhases.dataset"
     }
