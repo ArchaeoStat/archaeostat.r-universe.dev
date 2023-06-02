@@ -12,6 +12,10 @@
         "url": "https://github.com/ArchaeoStat/ArchaeoData"
     },
     {
+        "package": "ArchaeoCal",
+        "url": "https://github.com/ArchaeoStat/ArchaeoCal"
+    },
+    {
         "package": "ArchaeoPhases.dataset",
         "url": "https://github.com/ArchaeoStat/ArchaeoPhases.dataset"
     }
