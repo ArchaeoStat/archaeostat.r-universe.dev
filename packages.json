@@ -1,7 +1,8 @@
 [
     {
         "package": "ArchaeoPhases",
-        "url": "https://github.com/ArchaeoStat/ArchaeoPhases"
+        "url": "https://github.com/ArchaeoStat/ArchaeoPhases",
+        "branch": "*release"
     },
     {
         "package": "ArchaeoChron",
